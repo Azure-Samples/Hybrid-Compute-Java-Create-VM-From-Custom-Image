@@ -1,13 +1,7 @@
-## [project-title] Changelog
+## Hybrid-Compute-Java-Create-VM-From-Custom-Image Changelog
 
-<a name="x.y.z"></a>
-# x.y.z (yyyy-mm-dd)
+<a name="1.0.0"></a>
+# 1.0.0 (2018-12-03)
 
 *Features*
-* ...
-
-*Bug Fixes*
-* ...
-
-*Breaking Changes*
-* ...
+* Add sample for creating a vm using custom user image
