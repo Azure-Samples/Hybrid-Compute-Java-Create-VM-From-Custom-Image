@@ -1,7 +1,11 @@
 ---
-services: Azure-Stack
-platforms: java
-author: viananth
+page_type: sample
+languages:
+- java
+products:
+- azure
+description: "Azure Compute sample for creating a virtual machine using custom vm image"
+urlFragment: Hybrid-Compute-Java-Create-VM-From-Custom-Image
 ---
 
 # Hybrid-Compute-Java-Create-VM-From-Custom-Image #
