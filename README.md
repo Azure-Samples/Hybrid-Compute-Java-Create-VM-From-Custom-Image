@@ -5,15 +5,15 @@ languages:
 products:
 - azure
 description: "Azure Compute sample for creating a virtual machine using custom vm image"
-urlFragment: Hybrid-Compute-Java-Create-VM-From-Custom-Image
+urlFragment: hybrid-compute-java-create-vm-from-custom-image
 ---
 
 # Hybrid-Compute-Java-Create-VM-From-Custom-Image #
 
+Azure Compute sample for creating a virtual machine using custom vm image
 
-  Azure Compute sample for creating a virtual machine using custom vm image -
-   - Create a virtual machine
-   - Delete a virtual machine.
+- Create a virtual machine
+- Delete a virtual machine
 
 
 ## Running this Sample ##
