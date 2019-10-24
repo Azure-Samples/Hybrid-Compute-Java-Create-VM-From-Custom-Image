@@ -4,6 +4,7 @@ languages:
 - java
 products:
 - azure
+- azure-virtual-machines
 description: "Azure Compute sample for creating a virtual machine using custom vm image"
 urlFragment: hybrid-compute-java-create-vm-from-custom-image
 ---
