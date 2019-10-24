@@ -8,7 +8,7 @@ description: "Azure Compute sample for creating a virtual machine using custom v
 urlFragment: hybrid-compute-java-create-vm-from-custom-image
 ---
 
-# Hybrid-Compute-Java-Create-VM-From-Custom-Image #
+# Hybrid-Compute-Java-Create-VM-From-Custom-Image
 
 Azure Compute sample for creating a virtual machine using custom vm image
 
@@ -16,7 +16,7 @@ Azure Compute sample for creating a virtual machine using custom vm image
 - Delete a virtual machine
 
 
-## Running this Sample ##
+## Running this sample
 
 To run this sample:
 
@@ -50,12 +50,9 @@ To run this sample:
 
 6. Run the sample:
     * mvn clean compile exec:java
-
-## More information ##
+    
+## More information
 
 [http://azure.com/java](http://azure.com/java)
-
-
----
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
